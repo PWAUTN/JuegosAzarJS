@@ -1,0 +1,16 @@
+Ok,
+solucione los siguientes temas:
+*valid� el input del usuario que no sea texto ni un n�mero fuera del rango del men� de  pipati
+*valid� el input en el quiere continuar del vueltas libres (aceptaba  n�meros y cualquier letray sal�a)ahora solo sale cuando tipeas n y te reta  :D
+*el modulo abm  ya funciona 100%:
+    -si no existen los archivos, lo crea.
+    -si estan vac�os e intenta leerlos, te muestra 0 en las estad�sticas,
+    -si estan vaci�s y es la primera vez que escribe una linea e el archivo, evita  el  \n  ( lo vimos hoy con Fernando, pero yo le di una vuelta de tuerca, no lo hice como el).
+
+Y alguna cosita m�s que no me acuerdo.
+
+Cualquier cosa, comentenme, 
+Pruebenlo, intenten romperlo :D
+y creo que ya estar�a. -igual, algo le va a faltar seguro.
+
+AQAA
